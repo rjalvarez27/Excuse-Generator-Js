@@ -1,0 +1,37 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 6,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should use Math.random() function ",
+      "status": "passed"
+    },
+    {
+      "title": "You should be using Math.floor(), Math.ceil, OR Math.round functions ",
+      "status": "passed"
+    },
+    {
+      "title": "You should have an array called developers",
+      "status": "passed"
+    },
+    {
+      "title": "Developers array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "You should use developers.length to generate the random number",
+      "status": "passed"
+    },
+    {
+      "title": "You should generate a random index for developers array between 0 and the length of the array - 1",
+      "status": "passed"
+    }
+  ]
+}

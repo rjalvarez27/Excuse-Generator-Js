@@ -1,0 +1,49 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 9,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The who array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The who array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "The what array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The what array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "The when array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The when array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "You should generate a random index for the who array",
+      "status": "passed"
+    },
+    {
+      "title": "You should generate a random index for the what array",
+      "status": "passed"
+    },
+    {
+      "title": "You should generate a random index for the when array",
+      "status": "passed"
+    }
+  ]
+}

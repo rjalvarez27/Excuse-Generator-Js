@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You have to use Math.random() function",
+      "status": "passed"
+    },
+    {
+      "title": "You have to call console.log() with a random number",
+      "status": "passed"
+    }
+  ]
+}

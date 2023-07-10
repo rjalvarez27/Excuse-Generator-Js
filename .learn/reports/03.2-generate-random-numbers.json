@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You have to use Math.random()",
+      "status": "passed"
+    },
+    {
+      "title": "You have to use Math.floor()",
+      "status": "passed"
+    },
+    {
+      "title": "You have to call console.log() with a random integer between 0 and 4",
+      "status": "passed"
+    }
+  ]
+}

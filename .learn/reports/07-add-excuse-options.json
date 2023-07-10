@@ -1,0 +1,37 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 6,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The who array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The who array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "The what array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The what array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "The when array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The when array should have the indicated elements",
+      "status": "passed"
+    }
+  ]
+}

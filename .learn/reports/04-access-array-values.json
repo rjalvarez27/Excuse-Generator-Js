@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should have an array called developers",
+      "status": "passed"
+    },
+    {
+      "title": "Developers array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "You should programmatically access the third element in the array developers and print it",
+      "status": "passed"
+    }
+  ]
+}

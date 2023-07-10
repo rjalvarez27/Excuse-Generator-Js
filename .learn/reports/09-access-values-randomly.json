@@ -1,0 +1,65 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 13,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The who array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The who array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "The what array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The what array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "The when array should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The when array should have the indicated elements",
+      "status": "passed"
+    },
+    {
+      "title": "You should generate a random index for the who array",
+      "status": "passed"
+    },
+    {
+      "title": "You should generate a random index for the what array",
+      "status": "passed"
+    },
+    {
+      "title": "You should generate a random index for the when array",
+      "status": "passed"
+    },
+    {
+      "title": "A random value from the who array should be generated",
+      "status": "passed"
+    },
+    {
+      "title": "A random value from the what array should be generated",
+      "status": "passed"
+    },
+    {
+      "title": "A random value from the when array should be generated",
+      "status": "passed"
+    },
+    {
+      "title": "Only three unique values from the arrays should be printed to the console",
+      "status": "passed"
+    }
+  ]
+}

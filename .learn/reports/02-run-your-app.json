@@ -1,0 +1,17 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 1,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You have to call console.log() with \"Hello world\" as value",
+      "status": "passed"
+    }
+  ]
+}
